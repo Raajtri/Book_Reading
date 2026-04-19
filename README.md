@@ -1,17 +1,63 @@
-# book
+# Novely 📘
 
-A new Flutter project.
+Novely is a simple PDF reader app I built using Flutter.
+The idea was to create something clean and actually enjoyable to use while reading, instead of cluttered or distracting apps.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## What it does
 
-A few resources to get you started if this is your first Flutter project:
+* Lets you build your own small library of PDFs
+* Remembers where you left off (so you can continue reading)
+* Allows you to highlight important text
+* Saves highlights so you don’t lose them
+* Shows your reading progress
+* Marks books as completed
+* Prevents adding the same book again
+* Supports dark mode for comfortable reading
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Why I built this
+
+Most PDF readers either feel too heavy or not focused on the reading experience.
+I wanted something minimal, fast, and personal—something I’d actually use myself.
+
+---
+
+## Tech used
+
+* Flutter
+* Dart
+* Hive (for local storage)
+* Syncfusion PDF Viewer
+
+---
+
+
+
+## Running the project
+
+```bash
+git clone https://github.com/your-username/novely.git
+cd novely
+flutter pub get
+flutter run
+```
+
+---
+
+## What I’d like to add next
+
+* Notes on highlights
+* Search inside PDFs
+* Better organization for books
+* Maybe cloud sync
+
+---
+
+## About me
+
+Made by Aman Tripathi
+
+---
