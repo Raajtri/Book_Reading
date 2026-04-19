@@ -1,17 +1,35 @@
-# book
+# Book Reader App
 
-A new Flutter project.
+This is a simple PDF reading app built with Flutter for personal use.
 
-## Getting Started
+The main goal of this project is to have a clean, distraction-free reading experience while keeping track of reading progress and basic highlights.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## What it does
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Open PDF files from your device  
+- Maintain a personal library of added books  
+- Continue reading from the last page automatically  
+- Full-screen reading experience  
+- Tap to show or hide controls while reading  
+- Toggle between light and dark mode  
+- Highlight selected text  
+- Save highlights locally  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Tech used
+
+- Flutter  
+- Dart  
+- Hive (for local storage)  
+- Syncfusion PDF Viewer  
+
+---
+
+## How to run
+
+```bash
+flutter pub get
+flutter run
