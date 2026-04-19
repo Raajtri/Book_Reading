@@ -61,5 +61,3 @@ flutter run
 Made by Aman Tripathi
 
 ---
-
-If you try it and like it, feel free to star the repo 🙂
