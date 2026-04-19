@@ -34,11 +34,7 @@ I wanted something minimal, fast, and personal—something I’d actually use my
 
 ---
 
-## Screenshots
 
-(Add a few screenshots here)
-
----
 
 ## Running the project
 
